@@ -5,7 +5,7 @@ ZYCalculator is library just for testing
 ## Installation
 
 ```bash
-pod 'ImageViewer'
+pod 'ZYCalculator'
 ```
 
 ## Usage
