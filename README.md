@@ -1,6 +1,6 @@
 # ZYCalculator
 
-Foobar is a Python library for dealing with word pluralization.
+ZYCalculator is library just for testing
 
 ## Installation
 
