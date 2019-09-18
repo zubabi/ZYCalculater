@@ -1,0 +1,6 @@
+framework module ZYCalculator {
+  umbrella header "ZYCalculator-umbrella.h"
+
+  export *
+  module * { export * }
+}

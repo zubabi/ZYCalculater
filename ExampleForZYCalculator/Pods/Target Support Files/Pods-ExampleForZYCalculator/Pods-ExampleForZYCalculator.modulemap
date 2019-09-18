@@ -1,0 +1,6 @@
+framework module Pods_ExampleForZYCalculator {
+  umbrella header "Pods-ExampleForZYCalculator-umbrella.h"
+
+  export *
+  module * { export * }
+}

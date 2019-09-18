@@ -1,0 +1,16 @@
+PODS:
+  - ZYCalculator (1.0.2)
+
+DEPENDENCIES:
+  - ZYCalculator (from `../ZYCalculator/`)
+
+EXTERNAL SOURCES:
+  ZYCalculator:
+    :path: "../ZYCalculator/"
+
+SPEC CHECKSUMS:
+  ZYCalculator: d5dc6c696bac80f619365092c33aabd622c36c41
+
+PODFILE CHECKSUM: f8e05ecb33f2113bbb110c5eed17333af1eb081c
+
+COCOAPODS: 1.8.0.beta.2
