@@ -8,18 +8,10 @@
 
 import Foundation
 
-public class Calculator{
-    private init(){}
-    
-    public static func Sum(num1: Int, num2: Int) ->Int
-    {
+public class Calculator {
+    private init() {}
+
+    public static func Sum(num1: Int, num2: Int) -> Int {
         return num1 + num2
     }
-    
-    public static func Sum(num1: Int, num2: Int) ->Int
-    {
-        return num1 + num2
-    }
-    
-    
 }
