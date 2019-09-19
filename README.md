@@ -13,7 +13,9 @@ pod 'ZYCalculator'
 ```python
 import ZYCalculator
 
-call methods
+Sum(num1: Int, num2: Int) -> Int
+
+HelloWorld()-> String
 ```
 
 ## Contributing
