@@ -35,7 +35,11 @@ public class Calculator {
         return "Hello World"
     }
     
-    public static func HelloWorld5()-> String {
+    public static func HelloWorld6()-> String {
+        return "Hello World"
+    }
+    
+    public static func HelloWorld7()-> String {
         return "Hello World"
     }
     

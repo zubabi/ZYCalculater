@@ -13,3 +13,4 @@ spec.source_files  = "ZYCalculator/**/*.swift"
 #spec.public_header_files  = "ZYCalculator/**/*"
 spec.swift_versions= "4.0"
 end
+

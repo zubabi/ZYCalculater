@@ -16,6 +16,11 @@ import ZYCalculator
 Sum(num1: Int, num2: Int) -> Int
 
 HelloWorld()-> String
+HelloWorld()-> String
+HelloWorld()-> String
+HelloWorld()-> String
+HelloWorld()-> String
+
 ```
 
 ## Contributing
