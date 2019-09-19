@@ -22,4 +22,8 @@ public class Calculator {
     public static func HelloWorld()-> String {
         return "Hello World"
     }
+    
+    public static func HelloWorld2()-> String {
+        return "Hello World"
+    }
 }
