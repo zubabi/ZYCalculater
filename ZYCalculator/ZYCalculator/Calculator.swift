@@ -26,4 +26,17 @@ public class Calculator {
     public static func HelloWorld2()-> String {
         return "Hello World"
     }
+    
+    public static func HelloWorld3()-> String {
+        return "Hello World"
+    }
+    
+    public static func HelloWorld4()-> String {
+        return "Hello World"
+    }
+    
+    public static func HelloWorld5()-> String {
+        return "Hello World"
+    }
+    
 }
